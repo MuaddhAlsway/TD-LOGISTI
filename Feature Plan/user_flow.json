@@ -1,0 +1,33 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "2"
+  },
+  "orderIndex": "gQ==",
+  "title": "user_flow.md",
+  "relativeTransform": {
+    "x": 860.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "workspace/paraflow/Feature Plan/user_flow.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "rVo_D2bc9P9xytA5piPEO84rPXWbvJSkspAgh9HOPzU",
+    "contentLength": 1985,
+    "assetSize": {
+      "width": 3441,
+      "height": 0
+    },
+    "internal": false,
+    "tags": {}
+  },
+  "zeroFields": [],
+  "nullFields": [],
+  "id": {
+    "sessionId": "7",
+    "id": "1"
+  },
+  "frameType": 1
+}

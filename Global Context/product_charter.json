@@ -1,0 +1,33 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "1"
+  },
+  "orderIndex": "gA==",
+  "title": "product_charter.md",
+  "relativeTransform": {
+    "x": 100.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "workspace/paraflow/Global Context/product_charter.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "KhWdJKklwVD_1bV6X6DleSTIQWd-1ICR_eba1JnKY40",
+    "contentLength": 5109,
+    "assetSize": {
+      "width": 720,
+      "height": 0
+    },
+    "internal": false,
+    "tags": {}
+  },
+  "zeroFields": [],
+  "nullFields": [],
+  "id": {
+    "sessionId": "3",
+    "id": "1"
+  },
+  "frameType": 1
+}

@@ -1,0 +1,33 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "1"
+  },
+  "orderIndex": "gg==",
+  "title": "persona_b2b_client.md",
+  "relativeTransform": {
+    "x": 1620.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "workspace/paraflow/Global Context/persona_b2b_client.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "5zl5y07YSSMn2CWmacG94WNIKvaTECzUhsffqsc-eHQ",
+    "contentLength": 2457,
+    "assetSize": {
+      "width": 720,
+      "height": 0
+    },
+    "internal": false,
+    "tags": {}
+  },
+  "zeroFields": [],
+  "nullFields": [],
+  "id": {
+    "sessionId": "5",
+    "id": "1"
+  },
+  "frameType": 1
+}

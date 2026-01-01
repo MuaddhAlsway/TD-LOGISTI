@@ -1,0 +1,34 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "3"
+  },
+  "orderIndex": "gA==",
+  "title": "td_logistics_professional.style-guide.md",
+  "relativeTransform": {
+    "x": 100.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "workspace/paraflow/Style Guide/td_logistics_professional.style-guide.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "BpxRL3e4QhkU5xUOWjFVRGWvWK9_t2D6KIuY2fSVpSo",
+    "contentLength": 14866,
+    "assetSize": {
+      "width": 800,
+      "height": 1298
+    },
+    "previewImageHash": "vyO_gCSwnVjxYtGeXBdeDYqHAv_Zi4EZGgj1gv3RqEI",
+    "internal": false,
+    "tags": {}
+  },
+  "zeroFields": [],
+  "nullFields": [],
+  "id": {
+    "sessionId": "12",
+    "id": "1"
+  },
+  "frameType": 1
+}
